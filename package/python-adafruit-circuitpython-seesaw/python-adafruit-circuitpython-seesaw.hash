@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/adafruit-circuitpython-seesaw/json
+md5  cf2a8cde1c3ce1cd64115d1dca2e26ae  adafruit-circuitpython-seesaw-1.13.0.tar.gz
+sha256  6f5e100a9c4f9314dd49f11f0110143c9c3938ed7c3bab51e050e5d789bc7e7a  adafruit-circuitpython-seesaw-1.13.0.tar.gz
+# Locally computed sha256 checksums
+sha256  bafa11f6e902f5178adcf5e1bce061faf63f71c215dc7548131b44e3038f63f5  LICENSE

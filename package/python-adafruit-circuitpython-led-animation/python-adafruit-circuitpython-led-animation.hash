@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/adafruit-circuitpython-led-animation/json
+md5  0d016a04ee572a28f82d4d6d101f01f8  adafruit-circuitpython-led-animation-2.7.2.tar.gz
+sha256  20e2546fb9bd77251136f14ac72831f8d724cfae554151f44fa23cc0b8a4236b  adafruit-circuitpython-led-animation-2.7.2.tar.gz
+# Locally computed sha256 checksums
+sha256  c948b6dd094fe6339405920c8c91091ab0c13753348a5ddac1dc2defde31ce53  LICENSE

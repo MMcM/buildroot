@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/adafruit-circuitpython-neokey/json
+md5  1eec30d990f5ffa9b654073278640845  adafruit-circuitpython-neokey-1.0.12.tar.gz
+sha256  bb115d5978097e71ab763f8de11c5e5ad9b114437c5e15f27af7c66d911b984b  adafruit-circuitpython-neokey-1.0.12.tar.gz
+# Locally computed sha256 checksums
+sha256  b5556fd771940e8822d3c26db72d48da896aee539c1752846bdbc5447774ec52  LICENSE

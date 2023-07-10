@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_TICKS
+	bool "python-adafruit-circuitpython-ticks"
+	select BR2_PACKAGE_PYTHON_ADAFRUIT_BLINKA # runtime
+	help
+	  Work with intervals and deadlines in milliseconds.
+
+	  https://github.com/adafruit/Adafruit_CircuitPython_ticks.git

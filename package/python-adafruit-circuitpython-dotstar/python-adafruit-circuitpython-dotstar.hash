@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/adafruit-circuitpython-dotstar/json
+md5  cc815bcd6133255b8334cfccaff34cde  adafruit-circuitpython-dotstar-2.2.9.tar.gz
+sha256  a5041ad7a5d0cf3b392885d4f0394c3886ace110a18b22b82b805c12333e67f9  adafruit-circuitpython-dotstar-2.2.9.tar.gz
+# Locally computed sha256 checksums
+sha256  1cd87a5fb5d07c4984eb8b939f63341965be86d0f724fb42e9658ecdc7ab1550  LICENSE

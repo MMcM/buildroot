@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_NEOKEY
+	bool "python-adafruit-circuitpython-neokey"
+        select BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_SEESAW # runtime
+	help
+	  CircuitPython library for using Adafruit NeoKey.
+
+	  https://github.com/adafruit/Adafruit_CircuitPython_NeoKey

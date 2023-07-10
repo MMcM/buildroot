@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/adafruit-circuitpython-pixelbuf/json
+md5  c575b68584c89e933a0fe36400a45d05  adafruit-circuitpython-pixelbuf-2.0.2.tar.gz
+sha256  063bd654b68b454b63eaf396d1299791eadcaa8f6240a1651e180fe384a68164  adafruit-circuitpython-pixelbuf-2.0.2.tar.gz
+# Locally computed sha256 checksums
+sha256  3bd64cc081159764bc835a6237b2a0d5e37cdb62f0e656d7b70f35fb9c42f93f  LICENSE
