@@ -939,6 +939,9 @@ endif
 	source "package/python3/Config.in"
 if BR2_PACKAGE_PYTHON3
 menu "External python modules"
+	source "package/python-adafruit-blinka/Config.in"
+	source "package/python-adafruit-platformdetect/Config.in"
+	source "package/python-adafruit-pureio/Config.in"
 	source "package/python-aenum/Config.in"
 	source "package/python-aexpect/Config.in"
 	source "package/python-aioblescan/Config.in"
