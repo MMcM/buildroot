@@ -1,0 +1,8 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_DOTSTAR
+	bool "python-adafruit-circuitpython-dotstar"
+	select BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_PIXELBUF # runtime
+	select BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_TYPING # runtime
+	help
+	  CircuitPython library for DotStar LEDs.
+
+	  https://github.com/adafruit/Adafruit_CircuitPython_DotStar

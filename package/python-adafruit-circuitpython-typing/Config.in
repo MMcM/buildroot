@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_TYPING
+	bool "python-adafruit-circuitpython-typing"
+	select BR2_PACKAGE_PYTHON_TYPING_EXTENSIONS
+	help
+	  Types needed for type annotation that are not in `typing`.
+
+	  https://github.com/adafruit/Adafruit_CircuitPython_Typing

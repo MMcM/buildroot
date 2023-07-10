@@ -1,0 +1,8 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_SEESAW
+	bool "python-adafruit-circuitpython-seesaw"
+	select BR2_PACKAGE_PYTHON_ADAFRUIT_BLINKA # runtime
+	select BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_BUSDEVICE # runtime
+	help
+	  CircuitPython library for controlling a SeeSaw helper chip.
+
+	  https://github.com/adafruit/Adafruit_CircuitPython_seesaw

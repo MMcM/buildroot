@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_HID
+	bool "python-adafruit-circuitpython-hid"
+	select BR2_PACKAGE_PYTHON_ADAFRUIT_BLINKA # runtime
+	help
+	  CircuitPython helper library for simulating HID devices.
+
+	  https://github.com/adafruit/Adafruit_CircuitPython_HID

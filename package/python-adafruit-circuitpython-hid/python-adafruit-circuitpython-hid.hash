@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/adafruit-circuitpython-hid/json
+md5  04e96e1fa4d4654eb648095d441acf49  adafruit-circuitpython-hid-5.3.6.tar.gz
+sha256  373905371f2934c6c2da60af510c1d54665b28cc1394e8ddfbe78d297f2056f2  adafruit-circuitpython-hid-5.3.6.tar.gz
+# Locally computed sha256 checksums
+sha256  45ca96c509fa3fae19fd6a55ee5d0cba22746b41acb10ab2037d3ece6f4a932e  LICENSE

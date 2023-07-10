@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_NEOPIXEL
+	bool "python-adafruit-circuitpython-neopixel"
+	select BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_PIXELBUF # runtime
+	help
+	  CircuitPython library for NeoPixel LEDs.
+
+	  https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel
