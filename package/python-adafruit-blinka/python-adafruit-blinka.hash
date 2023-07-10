@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/Adafruit-Blinka/json
+md5  c83d6ba915f82f6518a16dea164ba03f  Adafruit-Blinka-8.20.0.tar.gz
+sha256  649d12d7cf4b2660c295d4a6d79e935200db7aeeb3df2469db648eddf982ee8b  Adafruit-Blinka-8.20.0.tar.gz
+# Locally computed sha256 checksums
+sha256  50e0c3b5b4486be0ed420639f8a1f6f115f29101feee6bcd954a4b81db04d0f3  LICENSE
