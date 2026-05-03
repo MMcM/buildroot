@@ -1,5 +1,5 @@
 # md5, sha256 from https://pypi.org/pypi/adafruit-circuitpython-ticks/json
-md5  b5d4508c7ee9342300230b6af7a4eff1  adafruit-circuitpython-ticks-1.0.11.tar.gz
-sha256  dea3e2ea8cf9c0fdc1a2692980313f6e13501c3a5e7c986b4a61e9d77be0b8e8  adafruit-circuitpython-ticks-1.0.11.tar.gz
+md5  5ffbd895a915cc3c44c35f06615b7f87  adafruit_circuitpython_ticks-1.1.7.tar.gz
+sha256  d7f2c0ddf7bcf22cc9579fe9cec8862c696030f3e9e9c68faa6afc2ec5cfd99f  adafruit_circuitpython_ticks-1.1.7.tar.gz
 # Locally computed sha256 checksums
 sha256  b7ed732475d89cf1f70806fb566feb1951090eb52498b5068737b806b802c798  LICENSE
